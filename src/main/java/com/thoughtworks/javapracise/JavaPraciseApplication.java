@@ -10,3 +10,4 @@ public class JavaPraciseApplication {
 		SpringApplication.run(JavaPraciseApplication.class, args);
 	}
 }
+
