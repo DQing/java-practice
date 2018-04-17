@@ -1,6 +1,6 @@
 package com.thoughtworks.javapracise.command;
 
-import com.thoughtworks.javapracise.entity.StudentInfo;
+import com.thoughtworks.javapracise.entity.*;
 import com.thoughtworks.javapracise.service.StudentGradeService;
 import com.thoughtworks.javapracise.transform.CmdIOTransformer;
 import org.junit.Before;
